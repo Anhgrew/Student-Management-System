@@ -1,0 +1,5 @@
+1,CTT008,Programming Technique 1,18CLC6,anh,2019-07-01,2019-04-13,Wed,8:00,11:00,I33
+2,CTT009,Programming Technique 2,18CLC6,em,2019-04-14,2019-07-14,Thurs,8:00,11:00,I43
+3,CTT010,Programming Technique 3,18CLC6,hoa,2019-07-15,2019-10-13,Fri,8:00,11:00,I53
+4,CTT011,Programming Technique 4,18CLC6,minh,2019-04-14,2019-07-14,Thurs,8:00,11:00,I43
+5,CTT012,Programming Technique 4,18CLC6,minh,2019-04-14,2019-07-14,Mon,8:00,11:00,I42

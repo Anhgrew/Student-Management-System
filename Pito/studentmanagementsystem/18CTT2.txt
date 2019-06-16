@@ -1,0 +1,240 @@
+1
+18125003
+Nguyen
+Tien Em
+18CTT2
+Male
+2000-01-05
+18125003
+2000-01-05
+0
+2
+18125004
+Mac
+T Truc
+18CTT2
+Female
+2000-07-07
+Mac
+ds
+0
+1
+18125003
+Nguyen
+Tien Em
+18CTT2
+Male
+2000-01-05
+18125003
+2000-01-05
+0
+2
+18125004
+Mac
+T Truc
+18CTT2
+Female
+2000-07-07
+Mac
+ds
+0
+1
+18125003
+Nguyen
+Tien Em
+18CTT2
+Male
+2000-01-05
+18125003
+2000-01-05
+0
+2
+18125004
+Mac
+T Truc
+18CTT2
+Female
+2000-07-07
+Mac
+ds
+0
+1
+18125003
+Nguyen
+Tien Em
+18CTT2
+Male
+2000-01-05
+18125003
+2000-01-05
+0
+2
+18125004
+Mac
+T Truc
+18CTT2
+Female
+2000-07-07
+Mac
+ds
+0
+1
+18125003
+Nguyen
+Tien Em
+18CTT2
+Male
+2000-01-05
+18125003
+2000-01-05
+0
+2
+18125004
+Mac
+T Truc
+18CTT2
+Female
+2000-07-07
+Mac
+ds
+0
+1
+18125003
+Nguyen
+Tien Em
+18CTT2
+Male
+2000-01-05
+18125003
+2000-01-05
+0
+2
+18125004
+Mac
+T Truc
+18CTT2
+Female
+2000-07-07
+Mac
+ds
+0
+1
+18125003
+Nguyen
+Tien Em
+18CTT2
+Male
+2000-01-05
+18125003
+2000-01-05
+0
+2
+18125004
+Mac
+T Truc
+18CTT2
+Female
+2000-07-07
+Mac
+ds
+0
+1
+18125003
+Nguyen
+Tien Em
+18CTT2
+Male
+2000-01-05
+18125003
+2000-01-05
+0
+2
+18125004
+Mac
+T Truc
+18CTT2
+Female
+2000-07-07
+Mac
+ds
+0
+1
+18125003
+Nguyen
+Tien Em
+18CTT2
+Male
+2000-01-05
+18125003
+2000-01-05
+0
+2
+18125004
+Mac
+T Truc
+18CTT2
+Female
+2000-07-07
+Mac
+ds
+0
+1
+18125003
+Nguyen
+Tien Em
+18CTT2
+Male
+2000-01-05
+18125003
+2000-01-05
+0
+2
+18125004
+Mac
+T Truc
+18CTT2
+Female
+2000-07-07
+Mac
+ds
+0
+1
+18125003
+Nguyen
+Tien Em
+18CTT2
+Male
+2000-01-05
+18125003
+2000-01-05
+0
+2
+18125004
+Mac
+T Truc
+18CTT2
+Female
+2000-07-07
+Mac
+ds
+0
+1
+18125003
+Nguyen
+Tien Em
+18CTT2
+Male
+2000-01-05
+18125003
+2000-01-05
+0
+2
+18125004
+Mac
+T Truc
+18CTT2
+Female
+2000-07-07
+Mac
+ds
+0
